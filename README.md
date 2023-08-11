@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mojeebansari
 - 👀 I’m interested in ...Game Development, Application Development and Website Development 
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Developing Games 
+- 💞️ I’m looking to collaborate on ...Developing Games and Websites.
 - 📫 How to reach me ...mojeebansari110100100@gmail.com
 
 <!---
